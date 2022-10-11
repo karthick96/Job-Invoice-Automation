@@ -40,7 +40,7 @@ try:
     time.sleep(4)
 
     driver.find_element(By.XPATH,
-                        "//input[@type='password' and @name='password' and @class='auth0-lock-input']").send_keys('Sh8zLvCyLBD6ZfK')
+                        "//input[@type='password' and @name='password' and @class='auth0-lock-input']").send_keys('*****')
 
     time.sleep(3)
 
