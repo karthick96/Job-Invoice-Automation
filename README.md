@@ -7,3 +7,14 @@ Basically, I noted down my tutoring class schedule and created them as recurring
 
 Once, the invoice is generated, I can mail my Boss to pay me my salary :)
 
+Note:
+I have deleted credentials.json and token.json, which is neccessary for extracting data using Google API but I haven't updated here as it is generated for my credentials. Please look into the references to how to set up google api connection and how to generate these files.
+
+
+REFERENCES:
+
+1. Google Calendar API: https://www.youtube.com/watch?v=qwqJcyLQSSQ&ab_channel=DAIMTODeveloperTips
+
+2. Google Calendar API: https://www.youtube.com/watch?v=1JkKtGFnua8&list=PL3JVwFmb_BnTO_sppfTh3VkPhfDWRY5on&ab_channel=JieJenn
+
+3. Selenium Web Driver for Automation bot: https://www.youtube.com/watch?v=Xjv1sY630Uc&list=PLzMcBGfZo4-n40rB1XaJ0ak1bemvlqumQ&ab_channel=TechWithTim
