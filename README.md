@@ -14,8 +14,6 @@ I have also haven't uploaded the data files as it is sensitive information!
 
 I also created a PowerBI report to look into my data for insights! Look below to see the screenshots of the report!
 
-![image](https://user-images.githubusercontent.com/32822620/195224357-fb22c1ac-6424-4f33-91cb-a9bf0403bef1.png)
-
 REFERENCES:
 
 1. Google Calendar API: https://www.youtube.com/watch?v=qwqJcyLQSSQ&ab_channel=DAIMTODeveloperTips
