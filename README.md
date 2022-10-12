@@ -7,6 +7,8 @@ Basically, I noted down my tutoring class schedule and created them as recurring
 
 Once, the invoice is generated, I can mail my Boss to pay me my salary :)
 
+I also created a PowerBI report to look into my data for insights!
+
 Note:
 I have deleted credentials.json and token.json, which is neccessary for extracting data using Google API but I haven't updated here as it is generated for my credentials. Please look into the references to how to set up google api connection and how to generate these files.
 
